@@ -1,0 +1,4 @@
+print (type("m"))
+Uni_name = "Mulungushi University"
+print (Uni_name[-1])
+#print(type("m"))
